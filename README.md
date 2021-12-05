@@ -42,7 +42,7 @@ The conclusion of the T-Test has a normal distribution based on the shape of the
 
 ## Study Design: MechaCar vs Competition 
 
-A statistical study that can quantify performance of MechaCars versus the competition would in the city and highway fuel efficiency, cost, vehicle specifications, and the maintenance cost. The null hypothesis asks "which car has better resale value?" and the alternate hypothesis asks "which car has better lifetime value?". The statistical tests would include summary statistics and T-tests, because we can determine where MechaCar lies versus competitors in terms of overall depriciation in terms of resale value,  and assesses maintenance cost versus efficiency in terms of lifetime value of owning a vehicle. The data that is needed is every specification of the car exterior, the engnie performance values, and the cost of the vehicle and the most commonly replaced parts. 
+A statistical study that can quantify performance of MechaCars versus the competition includes the following metrics: the city and highway fuel efficiency, cost, vehicle specifications, and the maintenance cost. The null hypothesis asks "which car has better resale value?" and the alternate hypothesis asks "which car has better lifetime value?". The statistical tests would include summary statistics and T-tests, because we can determine where MechaCar lies versus competitors in terms of overall depriciation in terms of resale value,  and assesses maintenance cost versus efficiency in terms of lifetime value of owning a vehicle. The data that is needed is every specification of the car exterior, the engnie performance values, and the cost of the vehicle and the most commonly replaced parts. 
 
 
 
