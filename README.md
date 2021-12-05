@@ -3,7 +3,7 @@
 ## Overview of MechaCar
 
 ### Purpose
-The purpose of this analysis is to use R Programming to perform a statistical analysis on MechaCar and it's prototype manuacturing output. 
+The purpose of this analysis is to use R Programming to perform a statistical analysis on MechaCar and it's manufacturing output of the new prototype. 
 
 ## Linear Regression to Predict MPG
 
